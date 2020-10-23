@@ -1,0 +1,26 @@
+p{
+			color:#F8F9FA;
+			font-size:55px; 
+			font-family: verdana
+		}
+		body{
+			background-color: #650001
+		}	
+	
+		#cnt1{
+			background-color:#194F44;
+			height: 300px;
+			width :300px;
+		}
+#cnt1:hover{background-color: #533872;} 
+
+		#cnt2{
+			background-color:#1F863E;
+			height: 200px;
+			width :200px;
+		}
+		#cnt2:hover{
+			background-color: #CA44B7;
+			height: 400px;
+			width: 400px}
+		
